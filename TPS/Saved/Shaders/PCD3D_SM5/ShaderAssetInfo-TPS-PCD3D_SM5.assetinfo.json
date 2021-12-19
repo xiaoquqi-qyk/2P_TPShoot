@@ -228,6 +228,42 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AFB31AD3EDFA2791134C943732C32B2731B9695A",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/ThirdPersonBP/Blueprints/M_Spline1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8DB4D992BDD37273142433541895BCF3A3FB547",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/ThirdPersonBP/Blueprints/M_Spline.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DB1CEE2D222771305112B9EC882A214C96D50EB8",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/ThirdPersonBP/Blueprints/M_Boom_S.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D0B077EFD5B2AEAE662EBCA6D98D4D99245F1A66",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4321057958FB9F9A0BDA42A00DB3E9789DD61228",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/FirstPerson/FPWeapon/Mesh/Gun.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "61BBF9C3CCF2DEED2C22A351ECDFF8698F93F8C0",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
@@ -260,6 +296,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "8DB1B9F70040C37EB83C5AC1643C9CDBB98D5877",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/ThirdPersonBP/Blueprints/Ammo_tex.uasset"
@@ -275,48 +317,6 @@
 			"ShaderMapHash": "C66310B05BBDC7FD66FB4E7272FC70AC445CA829",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/AnimStarterPack/UE4_Mannequin/Materials/M_UE4Man_ChestLogo.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AFB31AD3EDFA2791134C943732C32B2731B9695A",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/ThirdPersonBP/Blueprints/M_Spline1.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DB1CEE2D222771305112B9EC882A214C96D50EB8",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/ThirdPersonBP/Blueprints/M_Boom_S.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "E40FBC0160D2B45CB2B96AA25F2A6F0A533CB413",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4321057958FB9F9A0BDA42A00DB3E9789DD61228",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/FirstPerson/FPWeapon/Mesh/Gun.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "D0B077EFD5B2AEAE662EBCA6D98D4D99245F1A66",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Metal_Gold.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A8DB4D992BDD37273142433541895BCF3A3FB547",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/ThirdPersonBP/Blueprints/M_Spline.uasset"
 			]
 		},
 		{
@@ -350,17 +350,48 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3E7026462B302281CC8A6CE57B641D8253FDA9DC",
+			"ShaderMapHash": "BAE33F8C5197E20AC925FEAD6834AF8828FC24FD",
 			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/ai/武器/1.uasset"
+				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_50CalSide.uasset",
+				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_FlashSet1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2717808F28CEDF4F037522D5AE127F84A7E104B6",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_Lensflare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4B33DE812759C622FB7105A8A5F86A0F9585327A",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_MuzzleGlow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A34BBCAE6479AA7646399E3F9E817F00BB41635C",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_SoftGradient_Muzzle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "11E269DD6A1D3D9479723F508659D193AFBA23A5",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_Heat_Distortion.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "87D76475B01911E2A227EEC61323D7BFE1031086",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_ImpactSmoke.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
 			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/Mannequin/Character/Materials/M_UE4Man_NPC.uasset",
 				"../../../../../Documents/Unreal Projects/TPS/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset",
 				"../../../../../Documents/Unreal Projects/TPS/Content/Mannequin/Character/Materials/M_UE4Man_NPC_2.uasset",
-				"../../../../../Documents/Unreal Projects/TPS/Content/Mannequin/Character/Materials/M_UE4Man_NPC.uasset",
 				"../../../../../Documents/Unreal Projects/TPS/Content/Mannequin/Character/Materials/M_Male_Body.uasset",
 				"../../../../../Documents/Unreal Projects/TPS/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
 			]
@@ -384,40 +415,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2717808F28CEDF4F037522D5AE127F84A7E104B6",
+			"ShaderMapHash": "3E7026462B302281CC8A6CE57B641D8253FDA9DC",
 			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_Lensflare_01.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A34BBCAE6479AA7646399E3F9E817F00BB41635C",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_SoftGradient_Muzzle.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "11E269DD6A1D3D9479723F508659D193AFBA23A5",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_Heat_Distortion.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "4B33DE812759C622FB7105A8A5F86A0F9585327A",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_MuzzleGlow.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "87D76475B01911E2A227EEC61323D7BFE1031086",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_ImpactSmoke.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "BAE33F8C5197E20AC925FEAD6834AF8828FC24FD",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_FlashSet1.uasset",
-				"../../../../../Documents/Unreal Projects/TPS/Content/muzzles/Materials/M_50CalSide.uasset"
+				"../../../../../Documents/Unreal Projects/TPS/Content/ai/武器/1.uasset"
 			]
 		},
 		{
@@ -430,18 +430,6 @@
 			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Glass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Props/Materials/M_Lamp.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Basic_Floor.uasset"
 			]
 		},
 		{
@@ -577,6 +565,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "DFBC3ECA43EA2DACAD9CE4A535A90896A66ABCDF",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
@@ -598,6 +592,12 @@
 			"ShaderMapHash": "894C7354ACE316054282CECB3D7CAA3188137158",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AC6FC85D8C66AE35DE3F1483E30BE5D69DA3689A",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Basic_Floor.uasset"
 			]
 		},
 		{
@@ -649,12 +649,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2CB2505DC37386508890CD8B7AA8259D32DB51DE",
-			"Assets": [
-				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Props/Materials/M_TableRound.uasset"
@@ -694,6 +688,12 @@
 			"ShaderMapHash": "716511C7F2553049BE686CC038AC13A042496EEB",
 			"Assets": [
 				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "03BFE8C92D3E44B603EAF5E33C4BF599277B94F1",
+			"Assets": [
+				"../../../../../Documents/Unreal Projects/TPS/Content/StarterContent/Props/Materials/M_Lamp.uasset"
 			]
 		},
 		{
